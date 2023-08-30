@@ -1,3 +1,7 @@
+LikedIN: https://www.linkedin.com/posts/karthik-r-39862a1a0_airbnb-analysis-approach-1-mongodb-connection-activity-7102652823414206464-l2gv?utm_source=share&utm_medium=member_desktop
+
+
+
 *Airbnb Analysis
 
 
