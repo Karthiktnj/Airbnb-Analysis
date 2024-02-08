@@ -1,3 +1,10 @@
+pip install pandas
+pip install pymongo
+pip install streamlit
+pip install plotly
+pip install streamlit_option_menu
+pip install pillow
+
 import pandas as pd
 import pymongo
 import streamlit as st
